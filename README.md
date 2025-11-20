@@ -1,8 +1,4 @@
 # US National Parks Biodiversity
-
-Absolutely — here is the **clean, copy-and-paste–ready version** with perfect spacing and formatting.
-Just drop this directly into your `README.md` on GitHub.
-
 ---
 
 # 🌿 **Biodiversity in U.S. National Parks**
