@@ -38,6 +38,9 @@ Only **3%** of all species are under protection.
 * **5,633 species** — No Intervention
 * **191 species** — Under Protection
 
+📈 Visualization
+<p align="center"> <img src="visuals/conservation_status_bar.png" width="70%"> </p>
+
 ---
 
 ### **2️⃣ Mammals & Birds are most likely to be endangered**
@@ -55,12 +58,18 @@ These categories show the **highest proportion of protected species**, indicatin
 
 ➡️ Some species groups face disproportionately higher conservation pressure.
 
+📈 Visualization
+<p align="center"> <img src="visuals/protected_vs_unprotected_by_category.png" width="70%"> </p>
+
 ---
 
 ### **4️⃣ Bats are the most protected species across the parks**
 
 * Bats have the **highest conservation counts**
 * **Yellowstone National Park** contains the **largest protected bat population**
+
+📈 Visualization
+<p align="center"> <img src="visuals/bat_observations_by_park.png" width="70%"> </p>
 
 ---
 
