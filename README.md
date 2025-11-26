@@ -1,6 +1,3 @@
-# US National Parks Biodiversity
----
-
 # 🌿 **Biodiversity in U.S. National Parks**
 
 ### *Data Science Case Study • Conservation Analysis • Exploratory Research*
