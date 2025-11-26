@@ -47,6 +47,9 @@ Only **3%** of all species are under protection.
 
 These categories show the **highest proportion of protected species**, indicating heightened ecological risk or stronger monitoring.
 
+📈 Visualization
+<p align="center"> <img src="visuals/protected_vs_unprotected_by_category.png" width="70%"> </p>
+
 ---
 
 ### **3️⃣ Conservation status differences are statistically significant**
@@ -57,9 +60,6 @@ These categories show the **highest proportion of protected species**, indicatin
 * **Mammals vs Reptiles** — *Significant difference found*
 
 ➡️ Some species groups face disproportionately higher conservation pressure.
-
-📈 Visualization
-<p align="center"> <img src="visuals/protected_vs_unprotected_by_category.png" width="70%"> </p>
 
 ---
 
